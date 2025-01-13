@@ -61,3 +61,6 @@ To sync your repository with the most recent changes, follow the given steps:
 <br>
 
 - Congratulations! Your local repository is now synchronized!
+
+## Classwork
+Beginning from Day 4, all the respective folders/directories have class notes embedded into them(PNG and PDF). I have tried my best to describe, illustrate(using [Excalidraw](https://excalidraw.com/)) and compile the same in a PDF(using [Small PDF](https://smallpdf.com/pdf-converter)).

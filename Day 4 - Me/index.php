@@ -8,17 +8,18 @@
 </head>
 <body>
     <?php
-        function printArray($array){
+        function printArray($array): void
+        {
             echo "[";
             $len = count($array);
-            for($i=0; $i<$len; $i++){
-                if($i == ($len - 1))
-                    echo "$i";
+            for ($i = 0; $i < $len; $i++) {
+                if ($i == ($len - 1))
+                    echo "$array[$i]";
                 else
-                echo "$i, ";
+                    echo "$array[$i], ";
             }
             echo "]";
-        }
+        }    
     ?>
         <!-- All about Arrays! -->
         <div>

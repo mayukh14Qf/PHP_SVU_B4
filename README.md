@@ -1,5 +1,13 @@
 # PHP Repository for BTech CSE Batch IV, Year-2
 A PHP Repository for the students of BTech CSE, Year-2, Semester-IV, Batch-IV of Swami Vivekananda University, Barrackpore
+
+## Timetable
+| Weekday       | Class on                    |
+| ------------- |:--------------------------: |
+| Mon-Wed       | PHP Language                |
+| Thurs-Fri     | PHP Oriented towards Web Dev|
+
+
 ## How to install
 To install this repository in your machine, follow the given steps:
 - Download [Git CLI tool](https://git-scm.com/downloads/win) in your machine

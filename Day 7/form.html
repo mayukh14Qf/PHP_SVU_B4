@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+    <form action="valid.php" method="get">
+
+
+        <label for="number1">Enter A Number: </label>
+        <input type="number" name="number[]" id="number1">
+
+        <label for="number2">Enter A Number: </label>
+        <input type="number" name="number[]" id="number2">
+
+        <label for="number3">Enter A Number: </label>
+        <input type="number" name="number[]" id="number3">
+
+        <br>
+
+        <fieldset>
+            <legend>Skills</legend>
+
+            <label for="skill1">HTML</label>
+            <input type="checkbox" name="skills[]" value="html" id="skill1">
+
+            <label for="skill2">CSS</label>
+            <input type="checkbox" name="skills[]" value="css" id="skill2">
+
+            <label for="skill3">JS</label>
+            <input type="checkbox" name="skills[]" value="js" id="skill3">
+
+
+        </fieldset>
+
+
+        <br><br>
+
+        <input type="submit" value="Submit" name="submit">
+
+    </form>
+
+
+</body>
+</html>

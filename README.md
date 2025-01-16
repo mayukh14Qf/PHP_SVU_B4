@@ -5,7 +5,7 @@ A PHP Repository for the students of BTech CSE, Year-2, Semester-IV, Batch-IV of
 | Weekday       | Class on                    |
 | ------------- |:--------------------------: |
 | Mon-Wed       | PHP Language                |
-| Thurs-Fri     | PHP Oriented towards Web Dev|
+| Thurs-Sat     | PHP Oriented towards Web Dev|
 
 
 ## How to install

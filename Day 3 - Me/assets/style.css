@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  align-items: center;
+  justify-content: center;
+  background: rgb(2, 0, 36);
+  background: -moz-linear-gradient(
+    13deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 33%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  background: -webkit-linear-gradient(
+    13deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 33%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  background: linear-gradient(
+    13deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 33%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#00d4ff",GradientType=1);
+}
+
+table,
+.display-box {
+  background-color: white;
+  -webkit-box-shadow: -18px 16px 5px 0px rgba(0, 0, 0, 0.35);
+  -moz-box-shadow: -18px 16px 5px 0px rgba(0, 0, 0, 0.35);
+  box-shadow: -18px 16px 5px 0px rgba(0, 0, 0, 0.35);
+  border: 2px solid black;
+  padding: 20px;
+}
+
+td,
+tr,
+tbody {
+  /* border: 1px solid black; */
+}
+
+td {
+  font-size: 22px;
+  padding: 20px;
+  padding-right: 30px;
+  color: red;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+input[type="submit"] {
+  padding: 10px 20px;
+  background-color: transparent;
+  border: 1px solid red;
+  font-size: 18px;
+}
+
+.display-box {
+  font-size: 22px;
+  padding: 20px;
+  padding-right: 30px;
+  color: black;
+  background-color: white;
+}

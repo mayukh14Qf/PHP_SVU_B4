@@ -42,12 +42,13 @@
             color: red;
         }
 
-        label, p{
+        label,
+        p {
             font-size: 32px;
             margin-top: 20px;
         }
 
-        .sticky-footer{
+        .sticky-footer {
             position: fixed;
             bottom: 0;
             background-color: black;
@@ -68,7 +69,7 @@
         <br>
         <input type="submit" value="Check">
     </form>
-    
+
     <?php
     error_reporting(E_ERROR | E_PARSE);
     function sanitize_and_sort($arr): array
@@ -78,6 +79,8 @@
     }
     function anagram_check($word1, $word2): bool
     {
+        if (count($word1) != count($word2))
+            return false;
         $word1 = sanitize_and_sort($word1);
         $word2 = sanitize_and_sort($word2);
         if (!($word1 == $word2))

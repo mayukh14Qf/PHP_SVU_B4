@@ -15,5 +15,5 @@ Day 6 comprises:
 > In: True
 
 ## Digital Board Work
-![Day 5 Boardwork](../docs/images/Day%206/Day6_docs.excalidraw.png)
+![Day 6 Boardwork](../docs/images/Day%206/Day6_docs.excalidraw.png)
 Here is the link to the [URL of the PDF containing the same](../docs/pdfs/Day%206/Day6_docs.pdf)

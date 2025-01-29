@@ -1,6 +1,5 @@
 <?php
 
-
 function factorial($num){
     $store=1;
     for($i=1;$i<=$num;$i++){
@@ -8,7 +7,6 @@ function factorial($num){
     }
     return $store;
 }
-
 
 function strong_check($num){
     $temp=$num;
@@ -26,11 +24,10 @@ function strong_check($num){
 // Body
 
 $range=200;
-
 for($i=1;$i<=200;$i++){
     if(strong_check($i)==1){
         echo "$i is Strong Number <br>";
     }
- }
+  }
 
 ?>

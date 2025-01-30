@@ -1,5 +1,5 @@
 # PHP Repository for BTech CSE Batch IV, Year-2
-![HTML5](https://img.shields.io/badge/html-f06529?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&labelColor=f06529 "HTML5") ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS3") ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black&logoSize=auto "JS")
+![HTML5](https://img.shields.io/badge/html-f06529?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&labelColor=f06529 "HTML5") ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS3") ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black&logoSize=auto "JS") <br>
 ![PHP Badge](https://img.shields.io/badge/-PHP-3776AB?style=for-the-badge&logo=php&logoColor=blue&logoSize=auto "PHP") ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=auto&labelColor=0 "MySQL")
 
 A PHP Repository for the students of BTech CSE, Year-2, Semester-IV, Batch-IV of Swami Vivekananda University, Barrackpore
